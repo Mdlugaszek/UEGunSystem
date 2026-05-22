@@ -4,6 +4,7 @@ Jak uruchomic:
   repo:
   
 zainstalowany git lfs w celu obslugi duzych plikow, inaczej plik mapy nie wczytuje sie poprawnie
+
 w folderze do ktorego jest clonowany projekt nalezy wykonac komende:
 
 git lfs install
