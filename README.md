@@ -1,6 +1,7 @@
 ## Zadanie 1 - Core Gunplay
 
-Jak uruchomic:
+Jak uruchomic
+
   repo:
   
 zainstalowany git lfs w celu obslugi duzych plikow, inaczej plik mapy nie wczytuje sie poprawnie
